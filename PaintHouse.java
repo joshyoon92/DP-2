@@ -1,5 +1,6 @@
 public class PaintHouse {
     //time: O(n)
+    
     public int minCost(int[][] costs) {
         int n = costs.length;
         // int[] dp = new int[3];

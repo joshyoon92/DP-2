@@ -1,6 +1,7 @@
 public class PaintHouse2 {
 
     public int paintHouse2(int[][] costs) {
+        
         // R G B
         // 0 1 2
         for (int i = 1; i < costs.length; i++) {
